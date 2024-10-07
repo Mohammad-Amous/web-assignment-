@@ -1,0 +1,40 @@
+
+/* Styling for all <div> elements: sets the text color to a light gray */
+div{
+    color:whitesmoke
+}
+body{
+    background-color: gray;
+    background-image: url(dark\ background.png);
+}
+/* Styling for elements with the class 'image': sets a fixed width and height for images */
+.image{
+    width: 1000px; ;
+    height: 600px;
+
+}
+/* Styling for all anchor (<a>) elements: increases font size and sets color */
+a{
+    font-size: larger;
+    color: rgb(65, 117, 133);
+}
+/* Styling for the container of forms: applies background color, padding, and border radius */
+.form-container {
+    background-color: rgb(255, 127, 127);
+    padding: 25px;
+    
+
+}
+/* Styling for all <h3> elements: sets the text color to a light gray */
+h3{
+    color: whitesmoke;
+}
+/* Styling for all list items (<li>): sets the text color to a light gray */
+li{
+    color: whitesmoke;
+}
+
+  
+
+
+    
